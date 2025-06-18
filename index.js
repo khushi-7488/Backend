@@ -41,7 +41,7 @@ const githubData = {
 }
 
 app.get('/', (req, res) => {
-  res.send('<h1>Hello Ayush bhai kaise ho?</h1>')
+  res.send('<h1>Hello Ayush bhai kaise ho , tum btaye nhi ignore kr rhe ho n or maza aa rha h wha ghumne me ? or Som tu bta kya haal h</h1>')
 })
 
 app.get('/login', (req, res) => {
